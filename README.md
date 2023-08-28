@@ -6,7 +6,7 @@
 ## Glad to see you here! &nbsp; !
 
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/972533899462836334/1016891834976440370/pfps.gif" width="408" height="318" />
 
 
 ### Talking about Personal Stuffs:
