@@ -12,7 +12,6 @@
 ### Talking about Personal Stuffs:
 
 - 👨‍🎓 I'm a **New Developper**
-- 🔭 I’m currently on a project named [Opium Clicker](https://discord.gg/opiumclicker)
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
  - 🌌 C++
